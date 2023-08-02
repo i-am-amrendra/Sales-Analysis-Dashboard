@@ -28,5 +28,5 @@ I extend a warm invitation to contribute to the evolution of the Sales Insights 
 
 Embark on an illuminating journey of sales analysis and strategic decision-making with the Sales Insights Power BI Dashboard – your gateway to data-driven excellence.
 
-![](URL)
+![Dasboard Page - 01](https://drive.google.com/file/d/1ZJC8KHVGP95A5ZjIVj3hm5PtnGiVqeVl/view?usp=sharing)
 [Dashboard](https://drive.google.com/file/d/1yeMUIlhO8MoojxX1IRmtlDx5uvU9yZaJ/view?usp=sharing)
