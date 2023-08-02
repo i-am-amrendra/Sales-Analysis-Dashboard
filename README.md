@@ -28,7 +28,7 @@ I extend a warm invitation to contribute to the evolution of the Sales Insights 
 
 Embark on an illuminating journey of sales analysis and strategic decision-making with the Sales Insights Power BI Dashboard – your gateway to data-driven excellence.
 
-Dashboard as Pdf File - [Dashboard - Link](https://drive.google.com/file/d/1yeMUIlhO8MoojxX1IRmtlDx5uvU9yZaJ/view?usp=sharing)
+Dashboard as Pdf File - [Dashboard Link](https://drive.google.com/file/d/1yeMUIlhO8MoojxX1IRmtlDx5uvU9yZaJ/view?usp=sharing)
 
 <a href="https://imgur.com/hzIKgmN"><img src="https://i.imgur.com/hzIKgmN.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/cpJIeT7"><img src="https://i.imgur.com/cpJIeT7.png" title="source: imgur.com" /></a>
