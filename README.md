@@ -27,3 +27,6 @@ Embrace real-time insights as the visualizations seamlessly adapt to accommodate
 I extend a warm invitation to contribute to the evolution of the Sales Insights Power BI Dashboard. Should you encounter any valuable suggestions for enhancements, kindly illuminate the path by either initiating an issue or presenting a pull request to this repository. By uniting our efforts, we collectively enhance the dashboard's functionality and user experience, fostering benefits for all.
 
 Embark on an illuminating journey of sales analysis and strategic decision-making with the Sales Insights Power BI Dashboard – your gateway to data-driven excellence.
+
+![](URL)
+[Dashboard](https://drive.google.com/file/d/1yeMUIlhO8MoojxX1IRmtlDx5uvU9yZaJ/view?usp=sharing)
