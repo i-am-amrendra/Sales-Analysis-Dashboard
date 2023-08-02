@@ -8,19 +8,19 @@ The Sales Insights Power BI Dashboard stands as a testament to the prowess of Po
 
 # Key Features:
 
-1). Sales Performance Unveiled:
+### 1). Sales Performance Unveiled:
 Effortlessly track and oversee sales performance across diverse dimensions like product categories, regions, temporal intervals, and more.
 
-2). Interactive Visual Symphony:
+### 2). Interactive Visual Symphony:
 Immerse yourself in data narratives through dynamic charts, graphs, and tables that respond to your every interaction, empowering you with insights and unveiling hidden stories.
 
-3). Inquisitive Drill-Down Abilities:
+### 3). Inquisitive Drill-Down Abilities:
 Dive into the depths of data intricacies with seamless transitions from high-level summaries to granular specifics, facilitating comprehensive understanding.
 
-4). Precision Through Filtering and Slicing:
+### 4). Precision Through Filtering and Slicing:
 Harness the power of filters and slicers to spotlight specific data subsets and embark on spontaneous ad-hoc analyses.
 
-5). Dynamic Dashboards at Your Fingertips:
+### 5). Dynamic Dashboards at Your Fingertips:
 Embrace real-time insights as the visualizations seamlessly adapt to accommodate new data, rendering your experience perpetually current.
 
 # Inviting GitHub Community to Contribute to the Project
